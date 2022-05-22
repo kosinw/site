@@ -1,6 +1,6 @@
 # kosinw/site
 
-> My personal website built using Next.js and Tailwind.
+> 🚀 My personal website built using Next.js and Tailwind. 🚀
 
 ## Inspiration
 
